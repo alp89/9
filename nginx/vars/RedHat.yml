@@ -1,0 +1,4 @@
+---
+
+root_group: root
+nginx_conf_file_path: /etc/nginx/default.conf
