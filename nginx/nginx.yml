@@ -1,5 +1,5 @@
 - name: nginx
-  hosts: host1
+  hosts: host2
   become: True
   roles:
     - nginx
